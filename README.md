@@ -7,7 +7,7 @@ the student from mits are intelligent
 1.jathin
 2.pani
 3.parthu
--harsha
+  -harsha
 -hari
 +chaitanya
 +pavan
